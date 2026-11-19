@@ -27,7 +27,7 @@ wrong.
 
 ### Elsewhere
 
-- [LinkedIn](https://www.linkedin.com/in/saeed-al-nahlawi) — weekly notes on method, not recommendations
+- [LinkedIn](https://www.linkedin.com/in/saeed-al-nahlawi-36486a218/) — weekly notes on method, not recommendations
 - Open to financial analyst, equity research and risk roles in Amman and the Gulf
 
 Based in Amman, Jordan. Arabic (native), English (fluent).
