@@ -11,8 +11,7 @@ wrong.
 | Repo | What it does |
 |---|---|
 | [research-desk](https://github.com/saeedalnahlawi/research-desk) | Valuations of US-listed (SEC EDGAR), Amman Stock Exchange and GCC companies: data pipelines, SQL ratios, three valuation engines chosen by sector, published notes |
-| ase-ratios *(planned)* | Three years of one ASE company → a printed ratio table, in one command |
-| sql-drills *(planned)* | Daily SQL exercises against real financial data |
+| [sql-drills](https://github.com/saeedalnahlawi/sql-drills) | Daily SQL against a real financial database — one file per day, every query run and its output pasted back in |
 
 ### How I work
 
